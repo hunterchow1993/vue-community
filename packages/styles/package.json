@@ -1,0 +1,12 @@
+{
+  "name": "@community/styles",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0"
+  }
+}
