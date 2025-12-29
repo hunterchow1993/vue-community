@@ -1,6 +1,7 @@
 {
   "name": "community-web",
   "private": true,
+  "type": "module",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -12,6 +13,7 @@
     "vue-router": "^4.2.0",
     "pinia": "^2.1.0",
     "ant-design-vue": "^4.1.0",
+    "@community/ui": "workspace:*",
     "@community/styles": "workspace:*",
     "@community/vite-config": "workspace:*"
   },

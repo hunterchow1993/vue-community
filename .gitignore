@@ -4,3 +4,5 @@ dist
 dist-ssr
 *.local
 # .npmrc  <-- .npmrc contains project config, usually should be committed unless it has secrets
+.trae
+

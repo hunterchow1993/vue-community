@@ -16,7 +16,8 @@
     "paths": {
       "@community/styles": ["packages/styles/index.js"],
       "@community/vite-config": ["packages/vite-config/index.ts"],
-      "@community/*": ["packages/*"]
+      "@community/*": ["packages/*"],
+      "@community/ui": ["packages/ui/index.ts"]
     },
     "types": ["node"]
   },
